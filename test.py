@@ -1,6 +1,9 @@
 a=20
 b=50
+c=100
 print(a)
 print(b)
+print(c)
 print(a+b)
 print(a*b)
+print(c*b)
